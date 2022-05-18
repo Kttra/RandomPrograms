@@ -2,9 +2,9 @@
 Random programs in C#. Below is what is included:
 - Anagram Checker
 - Fibonacci Program
-- Prime numbers Program
+- Prime Numbers Program
 - Random String Generator
-- Reverse string Program
+- Reverse String Program
 - String Splitter
-- 2D list/array transposer
+- 2D List/Array Transposer
 - Valid Input Checker.
